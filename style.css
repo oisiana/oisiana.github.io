@@ -1,18 +1,24 @@
 html {
     background-color: rgb(236, 248, 236);
     font-size: 24px;
+    font-family: Raleway, sans-serif;
   }
+
   
 p {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'raleway', sans-serif;
     color: rgb(120, 130, 212);
   }
 
   h1 {
-  font-family: 'Nunito-sans', sans-serif;
+  font-family: 'Open-sans', sans-serif;
     color: yellow;
   }
 
+  ul {
+    font-family: 'Open_sans', sans-serif;
+    color: green;
+  }
   
 
 
